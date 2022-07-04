@@ -1,5 +1,11 @@
 # game-remeber-me
 
+## This is a "remember me" game [**Live Demo**](https://game-remember-me.web.app/)
+
+## Stack
+- Vue.js
+- Js
+
 ## Project setup
 ```
 npm install
